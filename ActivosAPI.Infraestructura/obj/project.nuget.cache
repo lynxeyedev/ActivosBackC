@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "NNhvKASvZwgWUICMKgBExodECPtOwbbSvtFPc4P1G61JC5FfDwXMGILQCxIwqNMvH1P1LmvyCg/PGu5Tbx5iJg==",
+  "dgSpecHash": "q4X2yd3187P9kO2e29j/jJeS14K5AgBNQB3SBHur8dAznXSaqGeKR3cOU0GmX49gvLe65gAoKJydeEgVQMTThQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\JorgeRomero\\Documents\\Desarrollo\\CSharp\\ActivosAPI\\ActivosAPI.Infraestructura\\ActivosAPI.Infraestructura.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.2\\microsoft.entityframeworkcore.analyzers.7.0.2.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.26\\microsoft.entityframeworkcore.design.6.0.26.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.2\\microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.26\\microsoft.entityframeworkcore.tools.6.0.26.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
+    "C:\\Users\\JorgeRomero\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\7.0.0\\pomelo.entityframeworkcore.mysql.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
