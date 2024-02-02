@@ -26,6 +26,11 @@ namespace ActivosAPI.Configuracion.Inicio
                     );
             });
             services.AddSingleton<IConfiguration>(configuration);
+
+            //services.AddScoped<EcommerceContext, EcommerceContext>();    
+            services.AddDbContext<ActivosSQLContext>(options => options
+                .UseSqlServer(configuration.GetConnectionString("ConexionConDBSQL")));
+            services.AddSingleton<IConfiguration>(configuration);
             #endregion
 
             #region [Registro de Inyeccion de Dependecias]
